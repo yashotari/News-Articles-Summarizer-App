@@ -1,8 +1,7 @@
 # News Article Summarizer Web-App
 
 ## Overview
-The News Article Summarizer and Categorizer is a project aimed at addressing the information overload experienced by users in today's fast-paced world. This project provides a streamlined platform for accessing and summarizing news articles across five main domains: India, World, Business, Technology, and Sports. Additionally, it offers the functionality to convert summarized news articles into audio format, enhancing accessibility and convenience for users who prefer auditory consumption of information.
-
+The News Article Summarizer and Categorizer is a project aimed at addressing the information overload experienced by users in today's fast-paced world. This project provides a streamlined platform for accessing and summarizing news articles across five main domains: India, World, Business, Technology, Sports  and Company News. Additionally, it offers the functionality to convert summarized news articles into audio format for better accessibility, including Hindi audio summaries for Company News.
 ## Features and working
 - **News article scraping**: Collects news articles from [Times of India website](https://timesofindia.indiatimes.com/) across various domains.
 - **Text Summarization**: Provides concise summaries of news articles using advanced NLP techniques.
@@ -26,6 +25,13 @@ The News Article Summarizer and Categorizer is a project aimed at addressing the
 2. **Text Summarization**: Uses models like BART from the transformer library to generate concise summaries of articles.
 3. **Text-to-Audio Conversion**: Utilizes the gTTS (Google Text-to-Speech) module to generate audio summaries from the provided text.
 
+## Future Enhancements
+- Adding more news sources.
+- Improving summarization accuracy with fine-tuned NLP models.
+- Enhancing multilingual support for all news categories.
+
+### This project makes news consumption easier by delivering concise, accessible, and multilingual summaries, making it ideal for users who want to stay updated with minimal effort. 🚀
+
 ## Frontend
 ![image](https://github.com/yashotari/News-Articles-Summarizer-App/blob/main/1.JPG)
 
@@ -45,5 +51,5 @@ The News Article Summarizer and Categorizer is a project aimed at addressing the
 
 
 
-Deployed version on Streamlit cloud: https://2minutenews.streamlit.app/
+
 
