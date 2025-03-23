@@ -27,6 +27,14 @@ The News Article Summarizer and Categorizer is a project aimed at addressing the
 3. **Text-to-Audio Conversion**: Utilizes the gTTS (Google Text-to-Speech) module to generate audio summaries from the provided text.
 
 ## Frontend
+![image](https://github.com/yashotari/News-Articles-Summarizer-App/blob/main/1.JPG)
+
+![image](https://github.com/yashotari/News-Articles-Summarizer-App/blob/main/2.JPG)
+
+![image](https://github.com/yashotari/News-Articles-Summarizer-App/blob/main/3.JPG)
+
+![image](https://github.com/yashotari/News-Articles-Summarizer-App/blob/main/4.JPG)
+
 ![image](https://github.com/akanksha1131/News-Articles-Summarizer-App/assets/115597711/52cfd4c6-4aaf-4c7c-9fb6-22a052fd414b)
 
 ![image](https://github.com/akanksha1131/News-Articles-Summarizer-App/assets/115597711/dacaf544-d657-45eb-9526-bc474abd8577)
